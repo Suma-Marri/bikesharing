@@ -3,6 +3,12 @@
 This is an analysis of NYC Citi Bike data in August 2019. We used Tablu, a data visualization tool, to explore the viability of a bike-sharing business in Des Moines.
 
 ### Results
+![August Peak Hours (1)](https://user-images.githubusercontent.com/58046234/160258602-f24b6d94-30de-4242-8a53-44c3d5b911e1.png)
+This shows the August peak hours. As we can see, the peak starttime is between 7-9 am and 4 - 6 pm.
+
+![Top Starting Locations](https://user-images.githubusercontent.com/58046234/160258617-fc4cab7a-1d70-40e3-b709-bf51cd0230ed.png)
+This shows the top starting locations. We can see that the far majority of the rides were in the very busy Manhattan Island.
+
 ![Checkout Times for Users](https://user-images.githubusercontent.com/58046234/160258420-f06c94dd-9631-4d82-bf2b-aed6c2af61fb.png)
 This the the checkout times for customers between 0-2 hours. We can see that most people check out within an hour.
 
