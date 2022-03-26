@@ -6,10 +6,11 @@ This is an analysis of NYC Citi Bike data in August 2019. We used Tablu, a data 
 ![CitiBike Story](https://user-images.githubusercontent.com/58046234/160258364-32206021-748d-4713-9531-fe7093b20a96.png)
 This the the checkout times for customers between 0-2 hours. We can see that most people check out within an hour.
 
-![Story 1 (1)](https://user-images.githubusercontent.com/58046234/160245013-1ca61a0e-714a-4948-b879-dfe5be99b0da.png)
+![CitiBike Story (2)](https://user-images.githubusercontent.com/58046234/160258377-5aac8c77-095f-4f2b-94c6-b94266f4dfce.png)
+![Checkout Times by Gender](https://user-images.githubusercontent.com/58046234/160258406-182aaa61-bcad-4b6f-8900-c3aec8de3516.png)
 This the the checkout times for customers between 0-2 hours speperated by gender. We can see that males tend to use the Citi bikes more than females. 
 
-![Story 1 (2)](https://user-images.githubusercontent.com/58046234/160245022-31d47a31-adf1-4410-84d6-5029613e6f61.png)
+![CitiBike Story (3)](https://user-images.githubusercontent.com/58046234/160258384-ab1dfeab-f0a5-442e-967a-448d8ca51f12.png)
 This is a heatmap of trips by weekday. We can see that most of the rides happen around 7 am to 9 am and 5 pm to 7 pm on week days. On weekends, we see that the bikes are used mostly between 11 am to 7 pm.
 
 ![Story 1 (3)](https://user-images.githubusercontent.com/58046234/160245024-1e449c46-498c-4b6f-b590-851a355697f0.png)
