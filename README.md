@@ -3,7 +3,7 @@
 This is an analysis of NYC Citi Bike data in August 2019. We used Tablu, a data visualization tool, to explore the viability of a bike-sharing business in Des Moines.
 
 ### Results
-[CitiBike Story](https://user-images.githubusercontent.com/58046234/160258364-32206021-748d-4713-9531-fe7093b20a96.png)
+![CitiBike Story](https://user-images.githubusercontent.com/58046234/160258364-32206021-748d-4713-9531-fe7093b20a96.png)
 This the the checkout times for customers between 0-2 hours. We can see that most people check out within an hour.
 
 ![Story 1 (1)](https://user-images.githubusercontent.com/58046234/160245013-1ca61a0e-714a-4948-b879-dfe5be99b0da.png)
