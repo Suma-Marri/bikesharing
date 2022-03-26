@@ -28,4 +28,5 @@ This is a heatmap between gender and weekday and type of user. We can see that s
 The far majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers. 
 We did take the data from August 2019, when the weather is decent and before the pandemic. However, we should test other months, like the witer months when it is very snowy and the summer months when it is very hot outside. We should also check the data now, after the pandemic and see if the bikes are still successful now. 
 
+https://public.tableau.com/views/CitiBikes_16480771940170/CitiBikeNYC_1?:language=en-US&:display_count=n&:origin=viz_share_link
 https://public.tableau.com/views/CitiBikeChallange/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
